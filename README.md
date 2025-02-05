@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 I am a passionate **Software Developer** with expertise in **web development, cloud technologies, and DevOps**. I have hands-on experience in building scalable applications and deploying them on **AWS & Azure**. I enjoy solving problems and working on cutting-edge technologies to create impactful solutions.
-
+<!-- 
 ## 🔧 Skills
 
 - **Programming Languages:** C, Java, TypeScript, Python, PHP  
@@ -17,7 +17,7 @@ I am a passionate **Software Developer** with expertise in **web development, cl
 - **Cloud Services:** AWS, Azure  
 - **DevOps & Tools:** Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Docker Swarm  
 - **Version Control:** Git/GitHub  
-- **Operating Systems:** Windows, Linux (Ubuntu)  
+- **Operating Systems:** Windows, Linux (Ubuntu)   -->
 
 <!-- ## 💼 Experience -->
 <!-- 
