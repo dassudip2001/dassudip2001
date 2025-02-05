@@ -19,8 +19,8 @@ I am a passionate **Software Developer** with expertise in **web development, cl
 - **Version Control:** Git/GitHub  
 - **Operating Systems:** Windows, Linux (Ubuntu)  
 
-## 💼 Experience
-
+<!-- ## 💼 Experience -->
+<!-- 
 ### Software Developer | [Opezee](https://opezee.com) | *Aug 2023 - Present*
 - Upgraded **BOH Admin Panel** using **AngularJS & Laravel** with a focus on **code standardization**.
 - Developed **UI functionality** for **Opezee Launcher** and integrated it with a **C# backend** using **Electron**.
@@ -40,7 +40,7 @@ I am a passionate **Software Developer** with expertise in **web development, cl
 **Tech Stack:** Angular, NodeJS, Laravel, MySQL, MongoDB, Solid Design Pattern
 
 ### **CMS - Content Management System** *(Techindeck)*
-**Tech Stack:** C#, Spring Boot, Angular
+**Tech Stack:** C#, Spring Boot, Angular -->
 
 ## 🎓 Education
 - **Master of Computer Applications (MCA)**  
