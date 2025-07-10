@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 I am a passionate **Software Developer** with expertise in **web development, cloud technologies, and DevOps**. I have hands-on experience in building scalable applications and deploying them on **AWS & Azure**. I enjoy solving problems and working on cutting-edge technologies to create impactful solutions.
-<!-- 
+ 
 ## 🔧 Skills
 
 - **Programming Languages:** C, Java, TypeScript, Python, PHP  
@@ -17,10 +17,10 @@ I am a passionate **Software Developer** with expertise in **web development, cl
 - **Cloud Services:** AWS, Azure  
 - **DevOps & Tools:** Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Docker Swarm  
 - **Version Control:** Git/GitHub  
-- **Operating Systems:** Windows, Linux (Ubuntu)   -->
+- **Operating Systems:** Windows, Linux (Ubuntu) 
 
-<!-- ## 💼 Experience -->
-<!-- 
+ ## 💼 Experience 
+
 ### Software Developer | [Opezee](https://opezee.com) | *Aug 2023 - Present*
 - Upgraded **BOH Admin Panel** using **AngularJS & Laravel** with a focus on **code standardization**.
 - Developed **UI functionality** for **Opezee Launcher** and integrated it with a **C# backend** using **Electron**.
@@ -28,7 +28,7 @@ I am a passionate **Software Developer** with expertise in **web development, cl
 - Contributed to **CLMS-ADMIN & CLMS-Website**, implementing new features and configuring servers.
 - Optimized the **Feedback System** by adding **Docker support** and deploying it on **AWS** with **Next.js**.
 
-## 📌 Projects
+<!-- ## 📌 Projects
 
 ### **PFMS - Project & Faculty Management System**
 **Tech Stack:** Laravel, MySQL, JavaScript, Docker
@@ -40,7 +40,7 @@ I am a passionate **Software Developer** with expertise in **web development, cl
 **Tech Stack:** Angular, NodeJS, Laravel, MySQL, MongoDB, Solid Design Pattern
 
 ### **CMS - Content Management System** *(Techindeck)*
-**Tech Stack:** C#, Spring Boot, Angular -->
+**Tech Stack:** C#, Spring Boot, Angular  -->
 
 ## 🎓 Education
 - **Master of Computer Applications (MCA)**  
