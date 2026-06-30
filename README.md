@@ -49,6 +49,7 @@ I am a passionate **Software Developer** with expertise in **web development, cl
 ## 📜 Certifications
 - **2× AWS Certified**
 - **3× Oracle Certified**
+- ** GitHub Actions **
 - **DevOps Certification (Intellipaat)**
 
 ## 📫 Get in Touch
