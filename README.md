@@ -8,39 +8,12 @@
 
 ## 🚀 About Me
 I am a passionate **Software Developer** with expertise in **web development, cloud technologies, and DevOps**. I have hands-on experience in building scalable applications and deploying them on **AWS & Azure**. I enjoy solving problems and working on cutting-edge technologies to create impactful solutions.
- 
-<!-- ## 🔧 Skills
 
-- **Programming Languages:** C, Java, TypeScript, Python, PHP  
-- **Web Technologies & Frameworks:** HTML, CSS/SCSS, Bootstrap, Tailwind CSS, Angular, Laravel, NodeJS, Flask, Electron, Spring Boot, Next.js  
-- **Databases:** MySQL, MongoDB  
-- **Cloud Services:** AWS, Azure  
-- **DevOps & Tools:** Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Docker Swarm  
-- **Version Control:** Git/GitHub  
-- **Operating Systems:** Windows, Linux (Ubuntu)  -->
 
  ## 💼 Experience 
 
-### Software Developer | [Opezee](https://opezee.com) | *Aug 2023 - Present*
-<!-- - Upgraded **BOH Admin Panel** using **AngularJS & Laravel** with a focus on **code standardization**.
-- Developed **UI functionality** for **Opezee Launcher** and integrated it with a **C# backend** using **Electron**.
-- Built an **Incident Management System (IMS)** from scratch using **Laravel & Angular**, deployed on **AWS**.
-- Contributed to **CLMS-ADMIN & CLMS-Website**, implementing new features and configuring servers.
-- Optimized the **Feedback System** by adding **Docker support** and deploying it on **AWS** with **Next.js**. -->
+### Software Developer | [Opezee](https://opezee.com) | *Aug 2023 - April 2026*
 
-<!-- ## 📌 Projects
-
-### **PFMS - Project & Faculty Management System**
-**Tech Stack:** Laravel, MySQL, JavaScript, Docker
-
-### **Chat Bot**
-**Tech Stack:** Flask, NLP, NLTK, OpenAI API, Gemini API
-
-### **EMS - Event Management System** *(Techindeck)*
-**Tech Stack:** Angular, NodeJS, Laravel, MySQL, MongoDB, Solid Design Pattern
-
-### **CMS - Content Management System** *(Techindeck)*
-**Tech Stack:** C#, Spring Boot, Angular  -->
 
 ## 🎓 Education
 - **Master of Computer Applications (MCA)**  
@@ -50,6 +23,7 @@ I am a passionate **Software Developer** with expertise in **web development, cl
 - **2× AWS Certified**
 - **3× Oracle Certified**
 - **GitHub Actions**
+- **React**
 - **DevOps Certification (Intellipaat)**
 
 ## 📫 Get in Touch
