@@ -16,15 +16,6 @@
 ## 🎯 About Me
 
 I'm a **Full-Stack Software Developer** specializing in **Generative AI** and **MLOps**. With expertise in building machine learning pipelines, deploying AI models at scale, and cloud infrastructure, I develop production-grade solutions that combine software engineering rigor with advanced AI capabilities.
-
-<div align="center">
-
-| 🌍 Experience | 📚 Education | 🏆 Certifications |
-|:---:|:---:|:---:|
-| 2.5+ Years | MCA | AWS, Oracle, GitHub, DevOps |
-
-</div>
-
 ---
 
 ## 💼 Professional Experience
