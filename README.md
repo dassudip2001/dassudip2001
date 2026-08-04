@@ -26,7 +26,7 @@ I'm a **Full-Stack AI Engineer** with 2.10 years of experience building scalable
 
 **Mobile & Desktop:** React Native, Ionic, Electron, Android TV
 
-**Backend:** Node.js, Express, NestJS, FastAPI, Flask, Django/DRF, Spring Boot
+**Backend:** Node.js, Express, NestJS, FastAPI, Flask, Django/DRF, Spring Boot, Laravel
 
 **Databases:** PostgreSQL, MySQL, MongoDB, SQLite, Supabase, Prisma ORM, SQLAlchemy, JPA/Hibernate
 
