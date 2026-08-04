@@ -28,7 +28,7 @@ I'm a **Full-Stack AI Engineer** with 2.10 years of experience building scalable
 
 **Backend:** Node.js, Express, NestJS, FastAPI, Flask, Django/DRF, Spring Boot, Laravel
 
-**Databases:** PostgreSQL, MySQL, MongoDB, SQLite, Supabase, Prisma ORM, SQLAlchemy, JPA/Hibernate
+**Databases:** PostgreSQL, MySQL, MongoDB, SQLite, Supabase, Prisma ORM, SQLAlchemy, JPA/Hibernate, Redis
 
 **AI & GenAI:** OpenAI API, Anthropic Claude API, Gemini API, LangChain, LangGraph, CrewAI, MCP, Agentic AI, RAG Pipelines, Prompt Engineering, Tool/Function Calling
 
