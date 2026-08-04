@@ -14,7 +14,7 @@
 
 ## 🎯 About Me
 
-I'm a **Full-Stack AI Engineer** with 2.7+ years of experience building scalable web, mobile, and AI-driven applications. I specialize in **Agentic AI**, **RAG pipelines**, and multi-agent orchestration using **LangChain**, **LangGraph**, **CrewAI**, and **MCP (Model Context Protocol)** — combining strong full-stack engineering with production-grade LLM deployments across **OpenAI**, **Anthropic Claude**, and **Gemini** APIs.
+I'm a **Full-Stack AI Engineer** with 2.10 years of experience building scalable web, mobile, and AI-driven applications. I specialize in **Agentic AI**, **RAG pipelines**, and multi-agent orchestration using **LangChain**, **LangGraph**, **CrewAI**, and **MCP (Model Context Protocol)** — combining strong full-stack engineering with production-grade LLM deployments across **OpenAI**, **Anthropic Claude**, and **Gemini** APIs.
 
 ---
 
@@ -92,7 +92,7 @@ I'm a **Full-Stack AI Engineer** with 2.7+ years of experience building scalable
 | Badge | Certification |
 |:---:|:---|
 | ☁️ | **AWS Certified** |
-| ☁️ | **Microsoft Azure (3×)** |
+| ☁️ | **Microsoft Azure (1×)** |
 | 🥇 | **Oracle Certified (3×)** |
 | ⚙️ | **GitHub Actions Certified** — CI/CD Automation |
 | ⚛️ | **React Certified** |
