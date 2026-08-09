@@ -43,7 +43,6 @@ I'm a **Full-Stack AI Engineer** with 2.10 years of experience building scalable
 ---
 
 ## 💼 Professional Experience
-## 💼 Professional Experience
  
 ### Full-Stack Software Engineer (AI & Automation) — ARP Softtech Pvt Ltd
 **📅 Jun 2026 – Present**
