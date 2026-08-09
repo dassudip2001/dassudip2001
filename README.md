@@ -43,6 +43,18 @@ I'm a **Full-Stack AI Engineer** with 2.10 years of experience building scalable
 ---
 
 ## 💼 Professional Experience
+## 💼 Professional Experience
+ 
+### Full-Stack Software Engineer (AI & Automation) — ARP Softtech Pvt Ltd
+**📅 Jun 2026 – Present**
+ 
+- Designing a secure RAG document-analysis pipeline for legal/professional document intelligence (LangChain, Qdrant/ChromaDB, enterprise access controls)
+- Building a proof-of-concept multi-assistant automation suite — role-based agents sharing a common knowledge layer (Node.js/NestJS, Python)
+- Prototyping an agentic performance-marketing optimization module with ad-platform API tool-calling and NL reporting
+- Implementing a unified marketing-data connector via MCP for plain-language cross-channel querying and scheduled reporting
+- Setting up a self-hosted AI agent runtime (Node.js gateway) integrated with messaging channels for internal automation
+- Working daily with **Django, Flask, Celery, PostgreSQL, ChromaDB**, containerized and deployed on AWS/Azure
+
 
 ### Software Developer — [Opezee](https://opezee.com)
 **📅 Aug 2023 – April 2026** | Remote
