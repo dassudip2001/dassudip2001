@@ -45,7 +45,7 @@ I'm a **Full-Stack AI Engineer** with 2.10 years of experience building scalable
 ## 💼 Professional Experience
  
 ### Full-Stack Software Engineer (AI & Automation) — ARP Softtech Pvt Ltd
-**📅 Jun 2026 – Present**
+**📅 Jun 2026 – Present** | Remote
  
 - Designing a secure RAG document-analysis pipeline for legal/professional document intelligence (LangChain, Qdrant/ChromaDB, enterprise access controls)
 - Building a proof-of-concept multi-assistant automation suite — role-based agents sharing a common knowledge layer (Node.js/NestJS, Python)
