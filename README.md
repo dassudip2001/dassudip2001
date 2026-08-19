@@ -52,7 +52,7 @@ I'm a **Full-Stack AI Engineer** with 2.10 years of experience building scalable
 - Prototyping an agentic performance-marketing optimization module with ad-platform API tool-calling and NL reporting
 - Implementing a unified marketing-data connector via MCP for plain-language cross-channel querying and scheduled reporting
 - Setting up a self-hosted AI agent runtime (Node.js gateway) integrated with messaging channels for internal automation
-- Working daily with **Django, Flask, Celery, PostgreSQL, Nextjs, ChromaDB**, containerized and deployed on AWS/Azure
+- Working daily with **Django, FastAPI, Celery, PostgreSQL, Nextjs, ChromaDB**, containerized and deployed on AWS/Azure
 
 
 ### Software Developer — [Opezee](https://opezee.com)
