@@ -56,7 +56,7 @@ I'm a **Full-Stack AI Engineer** with 3+ years of experience building scalable w
 
 
 ### Software Developer — [Opezee](https://opezee.com)
-**📅 Aug 2023 – April 2026** | Remote
+**📅 Sep 2023 – April 2026** | Remote
 
 - Modernized the BOH Admin Panel (AngularJS + Laravel), cutting maintenance effort by ~30%
 - Built the Opezee Launcher desktop UI (Electron + C# backend) for cross-platform deployment
